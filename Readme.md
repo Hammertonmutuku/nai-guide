@@ -1,4 +1,4 @@
-## Project title
+## NAI GUIDE
 Nai-Guide. This is a web app suitable for someone visiting Nairobi and they dont know where to start. It enables you to link with a guide or find how you can get to your destination safe and easily.
 
 ## Motivation
@@ -15,11 +15,15 @@ The following styles of coding have been used in our project to help other progr
 3. js-standard-style,
 4. Use of white space around operators.
 
-
 ## Screenshots
 Logo and screenshots of the application when in use.
-[logo](../logo.png)
+- <img src = "assets/images/logo.png" height=300>
+- <img src="assets/images/homeScreenshot.png" height=300>
+- <img src="assets/images/whereTo2.png" height= 300>
 
+## BDD
+When you open this web app on your browser, you are able to see the get started button. When you click it, you get to access where to? ,
+you choose your location and decide which option is better for you. Find route, you recieve instructions or Find guide, you get a guide's contact. 
 
 ## Technologies/framework used
 - HTML, Javascript, CSS, jquery, bootstrap.
@@ -28,7 +32,7 @@ Logo and screenshots of the application when in use.
 
 ## Features
 ***What makes our project stand out***
-
+It enables a user to select between finding a matatu or a guide.
 ## Code Example
 Show what the library does as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
@@ -36,18 +40,15 @@ Show what the library does as concisely as possible, developers should be able t
 To access our web app ;
 - First you need a device with browser like, Google chrome, Safari, Internet explorer or such.
 - Ensure you have an internet connection.
-- Type Nai-Guide and choose the first result. ***yaay!***
-
-## API Reference
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+- Type Nai-Guide and choose the first result.
+- Access your route or guide. ***yaay!***
 
 ## Contribute
 - If you would like to contribute to this project, contact the Scrum master @ lthamma3@gmail.com 
 
 ## Credits
-Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project.
-All thanks to the contributors : Simon KImani, Mark Watitwa, Kelvin Mbugua,and Mburiah Betty
-Hammerton Mutuku for his insipiring idea.
+- All thanks to the contributors : Simon Kimani, Mark Watitwa, Kelvin Mbugua,and Mburiah Betty. 
+- Hammerton Mutuku for his insipiring idea.
 ## License
 This project is licenced undet the MIT licence. [LICENSE]
 
