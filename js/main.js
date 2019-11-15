@@ -106,6 +106,7 @@ function getVariables() {
   });
  
 $(document).ready(function(){
+    outputParagraphs() 
     $('#submit').click(function(){
         event.preventDefault();
         var name= $('#name').val();
@@ -113,7 +114,7 @@ $(document).ready(function(){
         if (name=='' || email=='' ){
             alert('All fields are required kindly fill in and try again')
         } else{
-            alert(`Hey ${name}, Thanks for reaching out, we will get back to you via your email ${email} shortly.`);
+            output.innerHTML=`Hey ${name}, Thanks for reaching out, we will get back to you via your email ${email} shortly.`;
         }
         
     });
